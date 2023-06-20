@@ -1,7 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lubjr/1889506fe92ca5c55eac6db484b8c60e/raw/112386e4072be47ae2828e680836459890b5cef0/githubcard.svg"/>
 <h1 align="left">Hello, I'm Luiz Eduardo.</h1>
 
-🔥 Backend developer & mechatronics technician with experience in hardware development
+🔥 FullStack developer & mechatronics technician with experience in hardware development
 
 📌 Student of web development and microservices
 
