@@ -7,7 +7,7 @@
 
 🎓 Graduated in information systems at Fundação Hermínio Ometto
 
-🔭 I’m currently working at [Estronic](https://github.com/EstronicAuto)
+🔭 I’m currently working at my projects
 
 👨‍💻 Contact me at luizeduardobjr@gmail.com
 
