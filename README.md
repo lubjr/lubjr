@@ -7,7 +7,7 @@
 
 🎓 Graduated in information systems at Fundação Hermínio Ometto
 
-🔭 I’m currently working at Triângulos Tecnologia
+🔭 Currently open to work opportunities
 
 👨‍💻 Contact me at luizeduardobjr@gmail.com
 
