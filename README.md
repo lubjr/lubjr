@@ -7,7 +7,7 @@
 
 🎓 Graduated in information systems at Fundação Hermínio Ometto
 
-🔭 Currently open to work opportunities
+🔭 Currently working for Run2Biz
 
 👨‍💻 Contact me at luizeduardobjr@gmail.com
 
